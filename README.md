@@ -7,3 +7,5 @@ Goals
 - Learn Git and Github
 - Understand open-source collaboration
 - Build a small project 
+## Current Status
+Learning Git Branches.
